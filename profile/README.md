@@ -25,4 +25,4 @@ Connect with us:
 - [Twitter](https://twitter.com/mrwilbroad)
 
 Feel free to explore our repositories and get in touch!
-## regard mrwilbroad
+## Tanzania Developers , Our own repository 
